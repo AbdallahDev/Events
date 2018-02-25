@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_test"
+        android:title="Test" />
+
+    <item
+        android:id="@+id/item_users"
+        android:title="المستخدمون" />
+
+    <item
+        android:id="@+id/item_events"
+        android:title="الاحداث" />
+
+    <item
+        android:id="@+id/item_committees"
+        android:title="اللجان" />
+
+    <item
+        android:id="@+id/item_employees"
+        android:title="الموظفون" />
+
+    <item
+        android:id="@+id/item_departments"
+        android:title="المديريات" />
+
+    <item
+        android:id="@+id/item_logout"
+        android:title="تسجيل الخروج" />
+
+</menu>
